@@ -61,7 +61,8 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 ## WAVEFORM DIAGRAM
 
-![WhatsApp Image 2024-12-09 at 3 35 29 PM (1)](https://github.com/user-attachments/assets/3f702974-3bb6-42bc-8c8e-8306bd35ac7c)
+![WhatsApp Image 2024-12-26 at 7 23 57 PM](https://github.com/user-attachments/assets/f69258a8-0f2c-4b3e-a25c-5c42091e38d9)
+
 
 
 
